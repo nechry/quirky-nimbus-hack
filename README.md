@@ -1,9 +1,9 @@
 # quirky-nimbus-hack
 Quirky Nimbus Hacking files
 
-base on work from [Edu Garcia's](http://blog.arcnor.com/quirky-nimbus-hacking/)
+Based on the work of [Edu Garcia's](http://blog.arcnor.com/quirky-nimbus-hacking/)
 
-and initial [mynimbus.py](https://github.com/r0bin-fr/pirok/blob/master/mynimbus.py) script thank' to Matt
+and initial [mynimbus.py](https://github.com/r0bin-fr/pirok/blob/master/mynimbus.py) Python script from Matt
 
 # Software Setup #
 ## SPI on Pi ##
